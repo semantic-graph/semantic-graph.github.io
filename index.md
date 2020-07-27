@@ -11,16 +11,15 @@ upon request (contact author of this page). Here are some basic stats about it:
 
 ## Summary
 
-* All tasks: 9794
-
+* All tasks: 105880
 ## Task status
 
-|   success |   failure |
-|-----------|-----------|
-|      7297 |      2497 |
+|   pending |   success |   failure |
+|-----------|-----------|-----------|
+|     96086 |      8131 |      1663 |
 
 ## Graph labels
 
 |   NORMAL |   ANOMALY |
 |----------|-----------|
-|     9760 |        34 |
+|   105846 |        34 |
