@@ -11,15 +11,21 @@ upon request (contact author of this page). Here are some basic stats about it:
 
 ## Summary
 
-* All tasks: 105880
+* All tasks: 106436
 ## Task status
 
-|   pending |   success |   failure |
-|-----------|-----------|-----------|
-|     96086 |      8131 |      1663 |
+|   success |   failure |
+|-----------|-----------|
+|     97205 |      9231 |
 
 ## Graph labels
 
 |   NORMAL |   ANOMALY |
 |----------|-----------|
-|   105846 |        34 |
+|   106393 |        43 |
+
+## Input Origins
+
+|   jsnice |   npm |
+|----------|-------|
+|    96086 | 19724 |
